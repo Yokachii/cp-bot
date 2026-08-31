@@ -1,0 +1,1382 @@
+[
+  {
+    "themeSlug": "daily-life-rhythm",
+    "themeTitle": "Daily Life & Rhythm",
+    "quizzes": [
+      {
+        "slug": "daily-life-love-map",
+        "title": "Daily Life Love Map",
+        "description": "How well you know each other's ordinary world — mornings, comfort, and small preferences.",
+        "questions": [
+          {
+            "prompt": "On a free Saturday morning, I would rather…",
+            "options": ["Sleep in as late as possible", "Get out early for a walk or coffee", "Stay in and tinker on a project", "Cook a slow breakfast and linger"]
+          },
+          {
+            "prompt": "When I am quietly stressed, I usually want you to…",
+            "options": ["Give me space, then check in later", "Sit with me without trying to fix it", "Help me make a plan", "Distract me with something lighter"]
+          },
+          {
+            "prompt": "My ideal weeknight together is…",
+            "options": ["Couch, snacks, something familiar on screen", "Cooking and talking in the kitchen", "Going out, even if it is small", "Side-by-side doing our own things, close by"]
+          },
+          {
+            "prompt": "The household job I mind the least is…",
+            "options": ["Cooking", "Cleaning / tidying", "Errands and admin", "Planning social or travel stuff"]
+          },
+          {
+            "prompt": "If I could change one thing about our daily rhythm, it would be…",
+            "options": ["Mornings feeling less rushed", "Evenings feeling more connected", "Weekends feeling more restful", "Phone time taking less of us"]
+          }
+        ]
+      },
+      {
+        "slug": "home-and-rhythm",
+        "title": "Home & Sanctuary",
+        "description": "The texture of living space: rest, mess, environments, and shared habits.",
+        "questions": [
+          {
+            "prompt": "A home feels right to me when it is…",
+            "options": ["Mostly tidy, visually calm", "Lived-in and a little chaotic", "Warm, dim, cozy — atmosphere first", "Ready for people to drop by"]
+          },
+          {
+            "prompt": "Having guests over usually feels…",
+            "options": ["Energizing — I like hosting", "Fine in small doses", "Draining — I need recovery after", "Best when it is planned far ahead"]
+          },
+          {
+            "prompt": "My honest relationship with screens in the evening is…",
+            "options": ["I like a shared show as glue", "I want phones away more often", "I need some solo scroll time to decompress", "I want a mix: some together, some separate"]
+          },
+          {
+            "prompt": "On Sunday night I feel best if we…",
+            "options": ["Prep a little for the week", "Do something that feels like a date", "Protect unstructured rest", "Catch up on the house"]
+          },
+          {
+            "prompt": "The 'shared space' habit I care about most is…",
+            "options": ["Eating together when we can", "A clean-enough common space", "A goodbye / hello ritual", "Going to bed at a similar time"]
+          }
+        ]
+      },
+      {
+        "slug": "remote-routines",
+        "title": "Remote Routines & Virtual Presence",
+        "description": "How we weave each other into our separate daily realities across the distance.",
+        "questions": [
+          {
+            "prompt": "The low-effort way I feel most connected during a busy workday is…",
+            "options": ["A random picture of what you are looking at", "A quick 'thinking of you' text with no reply needed", "A short 2-minute voice note", "Knowing we have a call scheduled tonight"]
+          },
+          {
+            "prompt": "When our schedules don't align for a full call, I prefer…",
+            "options": ["Asynchronous video messages (Loom/Marco Polo)", "Long text updates throughout the day", "A quick 5-minute goodnight call, even if exhausted", "Leaving love letters in a shared doc or notes app"]
+          },
+          {
+            "prompt": "Parallel presence (being on video call while doing separate things) feels…",
+            "options": ["Comforting and natural — like being in the same room", "Slightly awkward or distracting", "Great, but only for short windows", "Essential for making the distance bearable"]
+          },
+          {
+            "prompt": "When I see something funny or interesting, my instinct is to…",
+            "options": ["Send it to you immediately", "Save it in a folder to show you on our next call", "Tell you about it during our recap of the week", "Post it somewhere public so you see it"]
+          },
+          {
+            "prompt": "Our virtual goodnight ritual is best when it is…",
+            "options": ["A predictable, uninterrupted phone call", "Sweet texts right before closing eyes", "Falling asleep together on call/Discord", "Flexible — no pressure if one of us is tired"]
+          }
+        ]
+      },
+      {
+        "slug": "morning-energy",
+        "title": "Mornings & Wake-Up Habits",
+        "description": "How we transition from sleep into the world and how we like to be approached.",
+        "questions": [
+          {
+            "prompt": "When my alarm goes off, my first reaction is…",
+            "options": ["Hit snooze at least twice", "Get up immediately on the first chime", "Scroll my phone in bed for 15 minutes", "Lie still and mentally prepare for the day"]
+          },
+          {
+            "prompt": "In the first 30 minutes after waking up, I prefer…",
+            "options": ["Total quiet while I wake up", "Upbeat energy, music, and immediate conversation", "A warm drink before speaking to anyone", "Physical affection and gentle cuddles"]
+          },
+          {
+            "prompt": "Across distance, my dream morning check-in is…",
+            "options": ["A sweet 'good morning' text waiting when I wake up", "A quick 5-minute voice call while making coffee", "A short voice note detailing your sleep", "A cute picture of your morning view"]
+          },
+          {
+            "prompt": "When it comes to morning routines, I am…",
+            "options": ["Strict and structured", "Flowing and unpredictable", "Rushed and chaotic", "Slow and deliberate"]
+          },
+          {
+            "prompt": "Breakfast for me is ideally…",
+            "options": ["A full meal cooked with care", "Coffee and something quick on the go", "Skipped entirely until lunch", "A leisurely ritual with a book or show"]
+          }
+        ]
+      },
+      {
+        "slug": "night-owl-rituals",
+        "title": "Evening Decompression & Bedtime",
+        "description": "How we wind down, process the day, and prepare for sleep.",
+        "questions": [
+          {
+            "prompt": "My wind-down ritual usually starts with…",
+            "options": ["Dimming the lights and turning off heavy screens", "A hot shower or skincaring routine", "Getting lost in a book or comfort media", "Venting about the day's stress"]
+          },
+          {
+            "prompt": "When sleeping in the same bed, I care most about…",
+            "options": ["Cuddling until we fall asleep", "Cuddling briefly, then moving to my own side", "Cool room temperature and heavy blankets", "Complete pitch-black darkness and absolute quiet"]
+          },
+          {
+            "prompt": "Falling asleep on a video call across distance feels…",
+            "options": ["Super comforting — like you're right there", "Hard because the screen glare bothers me", "Cute occasionally, but not every night", "Anxious if the connection drops"]
+          },
+          {
+            "prompt": "If one of us stays up much later than the other, I feel…",
+            "options": ["Totally fine — everyone has different sleep clocks", "A little lonely going to sleep alone", "Glad to have a bit of late-night solo time", "Kept awake by the light/noise"]
+          },
+          {
+            "prompt": "My ideal bedtime is…",
+            "options": ["Strictly before 11 PM", "Around midnight", "Well past 1 AM — I am a true night owl", "Whenever my body gives out"]
+          }
+        ]
+      },
+      {
+        "slug": "digital-habits-boundaries",
+        "title": "Digital Presence & Boundaries",
+        "description": "How phones, social media, and online habits fit into our life.",
+        "questions": [
+          {
+            "prompt": "When we are on a call or together, phone usage feels rude when…",
+            "options": ["You scroll social media while I'm sharing a story", "You reply to work emails during relaxation time", "It's on the table facing up during meals", "It rarely bothers me unless it's constant"]
+          },
+          {
+            "prompt": "Our posting frequency about each other on social media should be…",
+            "options": ["Keep it mostly private — just for us", "Post the big highlights and cute milestones", "Post frequently and tag each other often", "I don't care at all about social media"]
+          },
+          {
+            "prompt": "When you don't post or reply quickly on public platforms, I feel…",
+            "options": ["Completely unfazed", "Slightly curious about what you're up to", "A bit left out if you're active elsewhere", "Relieved that you aren't glued to your phone"]
+          },
+          {
+            "prompt": "A healthy digital boundary for us is…",
+            "options": ["No phones during designated date nights", "No work talk/checking slack after 8 PM", "Not needing instant replies to texts", "Always telling each other before going offline for hours"]
+          },
+          {
+            "prompt": "Sharing passwords or location tracking feels…",
+            "options": ["Practical and comforting for safety/trust", "Unnecessary — trust doesn't need tracking", "Fine for location, but keep passwords private", "A nice gesture of total openness"]
+          }
+        ]
+      },
+      {
+        "slug": "work-life-balance",
+        "title": "Work, Ambition & Daily Energy",
+        "description": "Balancing professional drives with relationship time.",
+        "questions": [
+          {
+            "prompt": "When work becomes crazy busy, my relationship style shifts to…",
+            "options": ["Laser focus on work — I need understanding and space", "Seeking extra comfort and vent sessions with you", "Trying to balance both and getting overwhelmed", "Efficiency mode — scheduling short, intentional check-ins"]
+          },
+          {
+            "prompt": "How I view work and career ambition…",
+            "options": ["Work is central to my identity and fulfillment", "Work is just a means to fund my actual life and hobbies", "I am in a building phase now, but want to slow down later", "I want a high-impact career above all else"]
+          },
+          {
+            "prompt": "When you achieve a major work milestone, I want to…",
+            "options": ["Plan a celebration date or send a surprise gift", "Brag about you to everyone I know", "Give you space to rest and decompress", "Have a deep conversation about your next step"]
+          },
+          {
+            "prompt": "If work forces one of us to work late on a weekend, I react by…",
+            "options": ["Being fully supportive — duty comes first", "Feeling disappointed, but keeping it to myself", "Suggesting we pivot our plans to another day", "Helping you finish or keeping you company"]
+          },
+          {
+            "prompt": "Talking about work troubles during date time should be…",
+            "options": ["Allowed for 10 minutes to vent, then banned", "Totally fine — work is a huge part of life", "Off-limits — date time is for us, not offices", "Only okay if it's an emergency"]
+          }
+        ]
+      },
+      {
+        "slug": "health-fitness-body",
+        "title": "Health, Movement & Well-being",
+        "description": "How we treat our physical bodies, exercise, and wellness habits.",
+        "questions": [
+          {
+            "prompt": "My personal relationship with physical exercise is…",
+            "options": ["Essential for my mental health — I need movement daily", "I do it consistently, but it's a routine duty", "Spurt-based — super active for weeks, then zero", "I prefer gentle walks and light activity only"]
+          },
+          {
+            "prompt": "When it comes to eating and nutrition, I am…",
+            "options": ["Structured and conscious of what I fuel my body with", "A total foodie — enjoyment over strict rules", "Intuitive — I eat whatever I crave", "Practical — food is fuel, quick and easy"]
+          },
+          {
+            "prompt": "When I feel physically unwell or insecure about my body, I want you to…",
+            "options": ["Reassure me verbally and tell me I am attractive", "Help me stay active or cook healthy meals together", "Not draw attention to it and treat me normally", "Listen quietly without offering unsolicited fitness advice"]
+          },
+          {
+            "prompt": "Working out or doing active things together sounds…",
+            "options": ["Super fun — a great bonding activity", "Intimidating — I prefer working out solo", "Nice occasionally, like a hike or bike ride", "Draining — exercise is my alone time"]
+          },
+          {
+            "prompt": "When one partner adopts a new health habit, the other should…",
+            "options": ["Join in fully to support them", "Cheer from the sidelines without feeling forced to join", "Help keep them accountable", "Respect their choice while keeping their own routine"]
+          }
+        ]
+      },
+      {
+        "slug": "chores-and-logistics",
+        "title": "Division of Care & Logistics",
+        "description": "Managing the practical background tasks of life.",
+        "questions": [
+          {
+            "prompt": "The chore I detest the absolute most is…",
+            "options": ["Washing dishes / cleaning the kitchen", "Doing laundry, folding, and putting away", "Deep cleaning the bathroom / scrubbing floors", "Managing admin, bills, and grocery shopping"]
+          },
+          {
+            "prompt": "My approach to household chores is…",
+            "options": ["Clean as you go — never let mess pile up", "Set aside a designated cleaning day once a week", "Clean only when things look visibly dirty", "Outsource/automate as much as possible"]
+          },
+          {
+            "prompt": "When planning logistics (flights, itineraries, bookings), I am…",
+            "options": ["The master researcher — spreadsheets and schedules", "Happy to contribute, but prefer following a plan", "Last-minute express — figure it out on the way", "Stressed by details — I need guidance"]
+          },
+          {
+            "prompt": "Across distance, logistical teamwork looks like…",
+            "options": ["Co-working on a shared calendar / itinerary", "One person taking full charge of travel plans", "Splitting tasks clearly (e.g., you book flights, I handle stays)", "Keeping it flexible and deciding closer to the date"]
+          },
+          {
+            "prompt": "If a chore is left undone for a few days, I feel…",
+            "options": ["Anxious and unable to relax", "Mildly annoyed, but I can ignore it", "Unbothered — life happens", "Prompted to just do it myself without complaining"]
+          }
+        ]
+      },
+      {
+        "slug": "personal-space-solitude",
+        "title": "Alone Time & Personal Autonomy",
+        "description": "How we recharge independently without pulling away from the relationship.",
+        "questions": [
+          {
+            "prompt": "When I feel socially or emotionally drained, my best recharge is…",
+            "options": ["Complete solitude in a quiet room", "Being near you without talking (parallel space)", "Getting out into nature or taking a walk alone", "Engaging in an absorbing solo hobby"]
+          },
+          {
+            "prompt": "When I ask for alone time, I hope you understand that…",
+            "options": ["It has zero to do with you — my battery is just empty", "I still love texting occasionally, just no heavy calls", "I need a few hours of zero communication to reset", "I am processing internal thoughts I need to work out"]
+          },
+          {
+            "prompt": "Across long distance, needing 'space' means…",
+            "options": ["Skipping tonight's call to do my own thing", "Taking a full day off from texting/calling", "Shortening our call to spend time on hobbies", "Just having a low-key call where we don't talk much"]
+          },
+          {
+            "prompt": "Having independent hobbies that don't involve my partner is…",
+            "options": ["Essential — we need separate lives to stay interesting", "Nice, but I prefer sharing most hobbies", "Fine, as long as it doesn't take over all our weekend time", "A great way to bring new stories back to the relationship"]
+          },
+          {
+            "prompt": "If you spend an entire day off without texting me much, I feel…",
+            "options": ["Glad you are enjoying your solo time", "A bit disconnected — I like small check-ins", "Anxious that something is wrong", "Motivated to go do my own thing too"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "themeSlug": "love-and-connection",
+    "themeTitle": "Affection & Emotional Connection",
+    "quizzes": [
+      {
+        "slug": "how-i-feel-loved",
+        "title": "How I Feel Loved",
+        "description": "Discover the specific expressions of care that hit closest to home.",
+        "questions": [
+          {
+            "prompt": "The gesture that lands the most for me is…",
+            "options": ["A specific compliment, out loud", "Practical help without being asked", "Physical closeness (hug, hold, kiss)", "Protected time with no agenda"]
+          },
+          {
+            "prompt": "When you want to cheer me up, I secretly hope you…",
+            "options": ["Bring food or a small treat", "Write or say something sincere", "Plan a tiny escape from the week", "Just stay and listen all the way through"]
+          },
+          {
+            "prompt": "I feel most chosen by you when…",
+            "options": ["You remember a detail I mentioned once", "You defend or back me with other people", "You put the phone down and look at me", "You initiate affection or a plan"]
+          },
+          {
+            "prompt": "After a long day, the first thing I need from you is…",
+            "options": ["A greeting and a hug", "Quiet coexistence", "To vent and be believed", "Help switching into evening mode (food, lights, plan)"]
+          },
+          {
+            "prompt": "The kind of surprise I actually enjoy is…",
+            "options": ["Spontaneous outing", "A gift that shows you were paying attention", "A love note or voice message", "You taking a chore off my plate"]
+          }
+        ]
+      },
+      {
+        "slug": "distance-affection",
+        "title": "Long Distance Intimacy & Warmth",
+        "description": "How we keep the spark alive and express affection across the miles.",
+        "questions": [
+          {
+            "prompt": "The physical element of distance is hardest for me when…",
+            "options": ["I accomplish something big and can't hug you", "I have a terrible day and need silent comfort", "I see other couples doing ordinary errands together", "Going to sleep alone at night"]
+          },
+          {
+            "prompt": "A surprise care package lands best for me if it contains…",
+            "options": ["A hoodie/shirt that smells like you", "My favorite snacks from your city/country", "A hand-written physical letter", "A thoughtful gift related to a recent conversation"]
+          },
+          {
+            "prompt": "Digital affection feels most real to me when you…",
+            "options": ["Write an unprompted paragraph about why you love me", "Send me an audio clip singing or talking softly", "Order food or a coffee delivery to my door", "Set a countdown timer for our next visit"]
+          },
+          {
+            "prompt": "When we talk about the physical distance, I need you to…",
+            "options": ["Acknowledge it sucks without trying to silver-lining it", "Remind me of the specific date we will see each other next", "Focus on the positive goals we are working toward", "Keep it light and tease about how good the reunion will be"]
+          },
+          {
+            "prompt": "The flirty gesture across distance that makes me blush most is…",
+            "options": ["An unexpected spicy photo or video", "A detailed description of what you want to do when we meet", "Whispering in a voice message late at night", "Dressing up specially for a screen date"]
+          }
+        ]
+      },
+      {
+        "slug": "flirty-know-you",
+        "title": "Flirty Know-You",
+        "description": "Playful closeness, attraction, and romantic dynamic.",
+        "questions": [
+          {
+            "prompt": "The kind of affection I want more of is…",
+            "options": ["Public, small (hand on back, kiss hello)", "Private and lingering", "Verbal — tell me I am wanted", "Playful teasing and banter"]
+          },
+          {
+            "prompt": "I feel most attractive to you when…",
+            "options": ["I am dressed up / we are going out", "I am at home, no performance", "I am doing something I am good at", "We have been laughing"]
+          },
+          {
+            "prompt": "The mood that makes closeness easier for me is…",
+            "options": ["Unhurried evening, phones away", "After we have been a team all day", "A little adventure or novelty", "Feeling emotionally caught up first"]
+          },
+          {
+            "prompt": "A romantic gesture I would actually love this month is…",
+            "options": ["You planning a full date", "A slow morning in bed / on the couch", "A letter or playlist", "A shared shower, dance in the kitchen, something sensory"]
+          },
+          {
+            "prompt": "When I want you, I am more likely to…",
+            "options": ["Say it directly", "Hint with touch", "Get extra warm / complimentary", "Create a setting and hope you catch it"]
+          }
+        ]
+      },
+      {
+        "slug": "verbal-appreciation",
+        "title": "Words of Affirmation & Praise",
+        "description": "How we praise, validate, and verbally encourage one another.",
+        "questions": [
+          {
+            "prompt": "The compliment that hits me deepest is about…",
+            "options": ["My character or mind", "My physical appearance or style", "How capable or hard-working I am", "How safe or happy I make you feel"]
+          },
+          {
+            "prompt": "I love receiving random sweet texts when…",
+            "options": ["I'm in the middle of a stressful workday", "I first wake up in the morning", "I'm out with friends and missing you", "Late at night right before sleep"]
+          },
+          {
+            "prompt": "When you notice something small I did and thank me, I feel…",
+            "options": ["Deeply seen and appreciated", "Motivated to do even more for you", "Warm, even if I pretend it was no big deal", "Relieved that my effort wasn't invisible"]
+          },
+          {
+            "prompt": "I prefer verbal affection to be…",
+            "options": ["Specific and detailed ('I love how you...')", "Simple and frequent ('Love you!', 'Miss you!')", "Poetic and emotional", "Playful and woven into teasing"]
+          },
+          {
+            "prompt": "If you haven't verbally complimented me in a while, I start feeling…",
+            "options": ["Insecure about whether you still find me attractive", "Unappreciated for what I bring to the table", "Fine — actions speak louder than words for me", "Prompted to compliment you first to reset the mood"]
+          }
+        ]
+      },
+      {
+        "slug": "physical-touch-in-person",
+        "title": "Physical Touch & Presence",
+        "description": "The nuances of physical touch when we share the same physical space.",
+        "questions": [
+          {
+            "prompt": "My absolute favorite type of casual touch is…",
+            "options": ["Holding hands while walking", "Back rubs or head scratches while relaxing", "Unprovoked hugs from behind", "Resting a hand on my leg while driving/sitting"]
+          },
+          {
+            "prompt": "Public displays of affection (PDA) make me feel…",
+            "options": ["Proud and happy — kiss me anywhere!", "Fine with subtle touch (holding hands), but no big kissing", "Private — save physical intimacy for closed doors", "Comfortable depending on who we are with"]
+          },
+          {
+            "prompt": "When we are resting on the couch, I prefer…",
+            "options": ["Full body spooning / heavy cuddling", "Lying with my head in your lap", "Feet touching while sitting on opposite ends", "Side-by-side holding hands"]
+          },
+          {
+            "prompt": "Touch when I am stressed or upset feels…",
+            "options": ["Instantly soothing — hold me tight", "Overwhelming — don't touch me until I cool down", "Nice only if it's gentle and quiet", "Helps ground me back into my body"]
+          },
+          {
+            "prompt": "During reunions after distance, the touch I crave first is…",
+            "options": ["A long, silent airport hug where neither lets go", "A passionate kiss the moment we meet", "Holding hands on the ride home", "Cuddling immediately in a private room"]
+          }
+        ]
+      },
+      {
+        "slug": "gift-giving-thoughtfulness",
+        "title": "Gift Giving & Meaningful Tokens",
+        "description": "The art of material appreciation and symbolic gestures.",
+        "questions": [
+          {
+            "prompt": "The best kind of gift to receive from you is…",
+            "options": ["Something practical that solves a daily problem", "A sentimental item tied to a shared memory", "An experience (tickets, travel, date)", "A luxury item I would never buy for myself"]
+          },
+          {
+            "prompt": "When I give you a gift, I am trying to communicate…",
+            "options": ["'I listen to you and remember what you mention'", "'I want to make your life easier/better'", "'I want us to make a memory together'", "'You deserve to be spoiled'"]
+          },
+          {
+            "prompt": "Receiving 'just because' random gifts makes me feel…",
+            "options": ["Overjoyed — spontaneous gifts are the best", "A little guilty if I didn't get you anything back", "Loved because it shows I was on your mind", "Awkward — I prefer waiting for holidays/birthdays"]
+          },
+          {
+            "prompt": "Across long distance, sending unexpected deliveries (food, flowers) is…",
+            "options": ["The ultimate romance power move", "Cute, but I prefer saved money put toward visit tickets", "Best when timed for a hard day", "Fun if it's a shared joke item"]
+          },
+          {
+            "prompt": "Wrapping, presentation, and cards matter to me…",
+            "options": ["A lot — the effort in the presentation is half the gift", "The written card matters more than the actual gift", "Not at all — it's what's inside that counts", "I love handwritten notes above everything"]
+          }
+        ]
+      },
+      {
+        "slug": "acts-of-service-care",
+        "title": "Acts of Service & Practical Support",
+        "description": "How taking care of tasks translates to love.",
+        "questions": [
+          {
+            "prompt": "The act of service that makes my heart melt most is…",
+            "options": ["Cooking a meal when I am exhausted", "Taking care of an annoying phone call/admin task for me", "Bringing me tea/coffee without being asked", "Cleaning up my mess so I can rest"]
+          },
+          {
+            "prompt": "Across distance, practical support looks like…",
+            "options": ["Helping me research/plan something complex", "DoorDashing food when I work late", "Reminding me of important tasks I might forget", "Proofreading or helping with my projects"]
+          },
+          {
+            "prompt": "When you do a chore for me, I appreciate it most if…",
+            "options": ["You do it quietly without bringing attention to it", "You do it cheerfully and make it feel like no burden", "You do it exactly the way I like it done", "You let me know so I can thank you properly"]
+          },
+          {
+            "prompt": "I express my love through service by…",
+            "options": ["Anticipating what you need before you ask", "Fixing things or organizing your life", "Taking over duties when you are stressed", "Cooking or making things for you"]
+          },
+          {
+            "prompt": "When I am sick, the care gesture I need most is…",
+            "options": ["Handling all food, medicine, and water logistics", "Leaving me alone to sleep undisturbed", "Staying close and checking my temperature/comfort", "Keeping the house completely quiet and clean"]
+          }
+        ]
+      },
+      {
+        "slug": "quality-time-undivided",
+        "title": "Quality Time & Undivided Focus",
+        "description": "What makes time together truly meaningful.",
+        "questions": [
+          {
+            "prompt": "Time together feels like 'quality time' only if…",
+            "options": ["Phones are completely out of sight", "We are engaged in a deep or fun conversation", "We are doing an activity actively together", "We are giving each other 100% of our focus"]
+          },
+          {
+            "prompt": "On a long phone/video call, quality time means…",
+            "options": ["Talking deeply about our feelings and lives", "Doing an activity together (movie, game)", "Just hanging out silently while doing chores", "Laughing and being completely goofy"]
+          },
+          {
+            "prompt": "If we have 30 minutes together, I would choose…",
+            "options": ["A quick walk outside holding hands", "Cuddling in bed talking quietly", "Playing a quick board game or quiz", "Sitting over a cup of coffee/tea"]
+          },
+          {
+            "prompt": "When quality time gets interrupted by outside distractions, I feel…",
+            "options": ["Frustrated — our time is sacred", "Understanding — real life gets in the way", "Disappointed, but happy to reschedule", "Anxious that our focus is slipping"]
+          },
+          {
+            "prompt": "The frequency of dedicated date nights we need is…",
+            "options": ["At least once a week without fail", "Every couple of weeks is fine", "Whenever we feel disconnected and need a reset", "Daily mini-dates matter more than big weekly ones"]
+          }
+        ]
+      },
+      {
+        "slug": "emotional-vulnerability",
+        "title": "Vulnerability & Opening Up",
+        "description": "How we share deeper fears, insecurities, and inner thoughts.",
+        "questions": [
+          {
+            "prompt": "Opening up about my deep insecurities makes me feel…",
+            "options": ["Relieved — sharing builds closeness", "Vulnerable and slightly anxious", "Cautious — I take a long time to open up", "Safe, because I trust you completely"]
+          },
+          {
+            "prompt": "When I cry or show intense emotion in front of you, I want…",
+            "options": ["To be held tightly without words", "Reassurance that I am not crazy or dramatic", "You to help me problem-solve the cause", "Space to breathe while you stay nearby"]
+          },
+          {
+            "prompt": "Across distance, sharing heavy emotional states is best done via…",
+            "options": ["Voice or video call so I can hear/see your expression", "A long written letter/text where I can formulate thoughts", "A voice message so you hear my tone", "Waiting until we see each other in person"]
+          },
+          {
+            "prompt": "If I notice you are hiding your feelings, I will…",
+            "options": ["Ask you directly what's wrong", "Give you subtle hints that I am here to listen", "Give you space until you are ready to speak", "Do something sweet to make it safer for you to open up"]
+          },
+          {
+            "prompt": "I feel safest being vulnerable when you…",
+            "options": ["Listen without judgment or immediate advice", "Share a similar vulnerability of your own", "Validate my feelings explicitly", "Keep what I share strictly confidential"]
+          }
+        ]
+      },
+      {
+        "slug": "romance-and-spontaneity",
+        "title": "Romance & Grand Gestures",
+        "description": "The role of cinematic romance, passion, and surprises.",
+        "questions": [
+          {
+            "prompt": "My stance on traditional romance (flowers, candlelit dinners) is…",
+            "options": ["I love it — give me all the classic romance!", "I prefer modern/personalized romance over clichés", "It feels a bit cheesy, but I appreciate the thought", "Romance is shown through daily care, not gestures"]
+          },
+          {
+            "prompt": "Spontaneous surprises make me feel…",
+            "options": ["Thrilled — I love unexpected twists!", "A bit anxious if it disrupts my routine", "Loved, provided it fits my preferences", "Excited to plan a surprise back for you"]
+          },
+          {
+            "prompt": "The most romantic setting I can imagine with you is…",
+            "options": ["A cozy cabin in the mountains with a fireplace", "A bustling foreign city night with great food", "A quiet beach watching the sunset", "A dim-lit living room with music and dance"]
+          },
+          {
+            "prompt": "Across long distance, the ultimate romantic move is…",
+            "options": ["Surprise unannounced flight visit", "Writing a series of 'open when' letters", "Ordering a special dinner to my house and eating together", "Planning an entire future vacation in secret"]
+          },
+          {
+            "prompt": "Keeping romance alive after years requires…",
+            "options": ["Continuous effort and planned date nights", "Spontaneity and breaking routines", "Deepening friendship and emotional intimacy", "Flirting like we just met"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "themeSlug": "communication-and-conflict",
+    "themeTitle": "Communication & Hard Moments",
+    "quizzes": [
+      {
+        "slug": "conflict-repair",
+        "title": "When We Clash",
+        "description": "Understanding individual conflict styles and what enables genuine repair.",
+        "questions": [
+          {
+            "prompt": "In a disagreement I am usually the one who…",
+            "options": ["Wants to talk it through immediately", "Needs a pause before I can be fair", "Goes quiet and hopes it passes", "Jokes to lower the temperature"]
+          },
+          {
+            "prompt": "The thing that stings me most in conflict is…",
+            "options": ["Feeling dismissed or talked over", "A sharp tone or sarcasm", "The silent treatment", "Bringing up old inventory"]
+          },
+          {
+            "prompt": "A repair that actually works for me is…",
+            "options": ["'I get why that hurt' plus a change", "A hug and a reset", "Humor after accountability", "Solving the practical issue together"]
+          },
+          {
+            "prompt": "After we argue, I need…",
+            "options": ["Reassurance we are okay", "Time before affection feels natural", "To recap what we agreed", "A completely different activity to close the loop"]
+          },
+          {
+            "prompt": "I know we are good at conflict when…",
+            "options": ["We can pause without threatening the relationship", "We stay on one topic", "We can admit our part", "We reconnect the same day"]
+          }
+        ]
+      },
+      {
+        "slug": "stress-and-support",
+        "title": "Stress & Support",
+        "description": "How to show up for each other when life outside gets heavy.",
+        "questions": [
+          {
+            "prompt": "When work is heavy, I most need you to…",
+            "options": ["Protect my focus and not take it personally", "Ask how you can take things off my plate", "Remind me I am more than the stress", "Keep some lightness and humor around"]
+          },
+          {
+            "prompt": "I am most likely to withdraw when…",
+            "options": ["I feel criticized", "I feel overwhelmed", "I feel misunderstood", "I feel like a burden"]
+          },
+          {
+            "prompt": "The fastest way to help me come back after a hard moment is…",
+            "options": ["A sincere apology if needed, then warmth", "Physical closeness", "Humor, once the air is clear", "A practical fix for whatever went wrong"]
+          },
+          {
+            "prompt": "I feel like a team when we…",
+            "options": ["Divide tasks without scorekeeping", "Check in before making plans", "Handle money or logistics together", "Talk about feelings before they pile up"]
+          },
+          {
+            "prompt": "If I say 'I'm fine' and I am not, I probably want you to…",
+            "options": ["Gently ask once more, then wait", "Give me a bit of space and return later", "Stay nearby without interrogating", "Name what you notice: 'you seem off'"]
+          }
+        ]
+      },
+      {
+        "slug": "screen-misunderstandings",
+        "title": "Digital Miscommunication & Distance Friction",
+        "description": "Navigating text tone, delayed replies, and distance misreadings.",
+        "questions": [
+          {
+            "prompt": "When you leave me on 'read' for hours during a busy day, I usually feel…",
+            "options": ["Fine — I assume you're busy", "A little anxious if we didn't finish a conversation", "Annoyed if I know you are active online elsewhere", "Wondering if you are upset with me"]
+          },
+          {
+            "prompt": "If a text message tone feels brief or cold, I prefer to…",
+            "options": ["Ask immediately: 'Is everything okay?'", "Wait for our next call to see how you sound", "Match your tone and get short back", "Assume text is a bad medium and ignore the weirdness"]
+          },
+          {
+            "prompt": "When we have a disagreement over text or call, the best pivot is to…",
+            "options": ["Stop texting instantly and switch to a voice/video call", "Pause the conversation for an hour so we cool down", "Write out full thoughts so nothing is misconstrued", "Apologize for the misunderstanding and move on"]
+          },
+          {
+            "prompt": "When I am having a bad day, long-distance support feels worst if you…",
+            "options": ["Try to give advice when I just wanted to vent", "Seem distracted or busy while on call with me", "Compare my situation to something else", "Get overly sad on my behalf so I have to comfort you"]
+          },
+          {
+            "prompt": "After a hard virtual talk, the best way to feel secure again is…",
+            "options": ["Sending a reassuring text right after hanging up", "Scheduling a fun/light video date for tomorrow", "Sending a voice note saying 'I love you and we are okay'", "Giving each other a few hours of quiet space"]
+          }
+        ]
+      },
+      {
+        "slug": "apologies-and-forgiveness",
+        "title": "Apology Languages & Reconciliation",
+        "description": "How we express genuine regret and grant forgiveness.",
+        "questions": [
+          {
+            "prompt": "An apology feels real to me only if you say…",
+            "options": ["'I was wrong and I am sorry' (Expressing regret)", "'I take full responsibility' (Accepting fault)", "'How can I make this right?' (Making restitution)", "'I promise I will change this behavior' (Repentance)"]
+          },
+          {
+            "prompt": "When you apologize, I also need…",
+            "options": ["Immediate physical warmth or a hug", "Clear explanation of why it happened", "Space to process before accepting it", "A lighthearted moment to break the tension"]
+          },
+          {
+            "prompt": "Forgiving a mistake is easiest for me when…",
+            "options": ["It was an honest mistake with no bad intention", "You acknowledge the pain it caused me", "We agree on how to avoid it in the future", "Enough time has passed to cool down"]
+          },
+          {
+            "prompt": "If I am the one who messed up, my default instinct is to…",
+            "options": ["Apologize immediately and fix it", "Get defensive first, then apologize later", "Feel immense guilt and pull away", "Over-explain my reasoning"]
+          },
+          {
+            "prompt": "Holding grudges in a relationship is…",
+            "options": ["Something I struggle with if trust was broken", "Not my style — I forgive and forget quickly", "Avoided by talking everything out to completion", "Dependent on whether the issue was resolved"]
+          }
+        ]
+      },
+      {
+        "slug": "listening-styles-venting",
+        "title": "Listening Styles & Venting vs. Fixing",
+        "description": "How we process outer stress and what support we expect.",
+        "questions": [
+          {
+            "prompt": "When I complain about a bad day at work, I want you to…",
+            "options": ["Just listen and validate my frustration", "Help me brainstorm solutions and action steps", "Distract me with humor and fun", "Take my side completely and validate my anger"]
+          },
+          {
+            "prompt": "If you start solving my problem when I just wanted to vent, I feel…",
+            "options": ["Frustrated — I feel unheard", "Appreciated — you care about fixing it", "Prompted to clarify what I actually need", "Overwhelmed by your suggestions"]
+          },
+          {
+            "prompt": "My natural listening default when you come to me with a problem is…",
+            "options": ["Instant fixer mode — offering advice", "Empathetic listener mode — nodding and comforting", "Analytical mode — asking clarifying questions", "Protective mode — getting mad on your behalf"]
+          },
+          {
+            "prompt": "When you are stressed, the best prompt I can offer is…",
+            "options": ["'Do you want advice or just to vent?'", "'How can I take care of you right now?'", "'Tell me everything from the beginning'", "'Let's grab food and talk about it'"]
+          },
+          {
+            "prompt": "During heavy conversations, eye contact and focus feel…",
+            "options": ["Crucial — look at me or I think you're ignoring me", "Intense — I prefer talking while walking or driving", "Important, but pauses and quiet moments are fine", "A bit pressuring depending on the topic"]
+          }
+        ]
+      },
+      {
+        "slug": "triggers-and-blindspots",
+        "title": "Personal Triggers & Sensitivities",
+        "description": "Understanding emotional scars and tender points.",
+        "questions": [
+          {
+            "prompt": "My biggest emotional trigger in a relationship is…",
+            "options": ["Feeling ignored, invalidated, or forgotten", "Feeling controlled, micro-managed, or trapped", "Feeling blamed or unfairly criticized", "Feeling lied to or kept in the dark"]
+          },
+          {
+            "prompt": "When my trigger gets bumped, my emotional reaction is…",
+            "options": ["Immediate anger or sharp words", "Shutting down completely and going quiet", "Anxiety and desperate seeking of reassurance", "Sarcasm and emotional distancing"]
+          },
+          {
+            "prompt": "To handle my personal sensitivities well, you should…",
+            "options": ["Learn what topics/tones set me off", "Gently call me out when I overreact", "Give me extra reassurance during sensitive moments", "Be patient while I work through my past scars"]
+          },
+          {
+            "prompt": "When you point out one of my blind spots, I respond best if…",
+            "options": ["You do it in private with a gentle tone", "You frame it around your feelings, not my flaws", "You give me a practical example", "You remind me that you love me first"]
+          },
+          {
+            "prompt": "Understanding each other's childhood or past relationship wounds is…",
+            "options": ["Essential for building real empathy", "Helpful, but present behavior matters more", "Something we should talk about regularly", "Nice to know as context when fights happen"]
+          }
+        ]
+      },
+      {
+        "slug": "decision-making-together",
+        "title": "Decision-Making & Compromise",
+        "description": "How we navigate choices, big or small, as a unit.",
+        "questions": [
+          {
+            "prompt": "When making small daily decisions (what to eat/watch), I am…",
+            "options": ["Decisive — I know what I want instantly", "Accommodating — 'Whatever you want is fine'", "Indecisive — I need options presented", "Collaborative — let's brainstorm together"]
+          },
+          {
+            "prompt": "When we disagree on a medium decision (vacation spot, furniture), we should…",
+            "options": ["Take turns yielding (I pick this time, you pick next)", "Find a 50/50 compromise middle ground", "Let the person who cares more decide", "Keep debating until someone is convinced"]
+          },
+          {
+            "prompt": "Making big life decisions (moving, career changes) feels best when…",
+            "options": ["We analyze pros and cons on paper logically", "We go with our gut feeling as a team", "We give each other veto power over big choices", "We consult friends or family for advice"]
+          },
+          {
+            "prompt": "If one person gives up what they wanted for the other, they should…",
+            "options": ["Never bring it up again or use it as leverage", "Be appreciated explicitly for the sacrifice", "Expect a balance next time a decision comes up", "Only sacrifice if they genuinely don't mind"]
+          },
+          {
+            "prompt": "My style when presenting an idea to you is…",
+            "options": ["Selling it passionately with all the reasons", "Asking casually to see your reaction", "Planning it all out before bringing it up", "Dropping subtle hints over time"]
+          }
+        ]
+      },
+      {
+        "slug": "non-verbal-cues",
+        "title": "Non-Verbal Cues & Subtext",
+        "description": "Reading facial expressions, body language, and subtle shifts.",
+        "questions": [
+          {
+            "prompt": "When my mood drops without me saying anything, I expect you to…",
+            "options": ["Notice instantly and ask what's wrong", "Wait for me to bring it up when ready", "Give me a warm hug without asking questions", "Check in gently later"]
+          },
+          {
+            "prompt": "How good are you at reading my body language?",
+            "options": ["Spot on — you know before I even say it", "Pretty good, but sometimes you misread exhaustion as sadness", "Average — I usually need to tell you explicitly", "Over-analytical — sometimes you think I'm mad when I'm just tired"]
+          },
+          {
+            "prompt": "Across video calls, reading emotional shifts is…",
+            "options": ["Hard — lighting and screens hide micro-expressions", "Easy if we are paying full attention", "Requires us to state our feelings out loud more", "A cause of occasional misunderstandings"]
+          },
+          {
+            "prompt": "My signature 'I am upset' non-verbal cue is…",
+            "options": ["Shorter text replies / flat tone of voice", "Sighing and crossing arms / pulling away physically", "Becoming hyper-focused on chores/cleaning", "Becoming unusually quiet"]
+          },
+          {
+            "prompt": "When you sense subtext or tension, the best approach is…",
+            "options": ["Name it directly: 'There's a weird vibe right now'", "Be extra sweet to diffuse it", "Ignore it until it passes or becomes explicit", "Ask 'Are we good?' with reassurance"]
+          }
+        ]
+      },
+      {
+        "slug": "boundaries-with-others",
+        "title": "Boundaries & Outside Relationships",
+        "description": "Protecting the relationship dynamic against outside influences.",
+        "questions": [
+          {
+            "prompt": "Discussing our relationship disagreements with outside friends/family is…",
+            "options": ["Off-limits — keep our private struggles between us", "Fine for general advice with a trusted best friend", "Okay only if it doesn't paint either of us in a bad light", "Natural — talking to outside support is healthy"]
+          },
+          {
+            "prompt": "Maintaining close friendships with exes or former crushes is…",
+            "options": ["A hard boundary — I prefer zero contact", "Fine as long as transparency and boundaries exist", "Totally okay — the past is in the past", "Dependent on how close they actually are"]
+          },
+          {
+            "prompt": "When an outside person disrespects our relationship or partner, we should…",
+            "options": ["Confront them immediately and set a firm boundary", "Distance ourselves from that person quietly", "Address it privately together first before acting", "Have the partner whose friend/family it is handle it"]
+          },
+          {
+            "prompt": "Our level of openness about our relationship details with parents should be…",
+            "options": ["Very minimal — strict boundary", "Open about good things, private about struggles", "Fully transparent — my family is involved in my life", "Balanced depending on the parent"]
+          },
+          {
+            "prompt": "If a friend requires a lot of emotional energy during our date time, I should…",
+            "options": ["Excuse myself briefly, but prioritize you", "Put my phone away and deal with it later", "Include you while I support my friend", "Take the call/help — friends come first in emergencies"]
+          }
+        ]
+      },
+      {
+        "slug": "check-ins-and-growth",
+        "title": "Relationship Check-Ins & Maintenance",
+        "description": "How we regularly evaluate and polish our relationship.",
+        "questions": [
+          {
+            "prompt": "Having a structured monthly or weekly 'relationship check-in' feels…",
+            "options": ["Awesome — a safe space to tune up our bond", "A bit mechanical — I prefer organic check-ins", "Good if we keep it light and positive", "Helpful especially when distance makes us feel drift"]
+          },
+          {
+            "prompt": "The question I want us to ask each other more often is…",
+            "options": ["'How can I love you better this week?'", "'What made you feel closest to me recently?'", "'Is there anything quiet you've been holding in?'", "'What fun thing should we plan next?'"]
+          },
+          {
+            "prompt": "When we notice a bad habit creeping into our dynamic, we should…",
+            "options": ["Address it immediately before it sets in", "Bring it up gently during a calm moment", "Lead by example and change our own part first", "Laugh about it and reset together"]
+          },
+          {
+            "prompt": "Measuring our relationship growth over the past year, I feel…",
+            "options": ["Proud of how much stronger and closer we are", "Aware that we have specific areas to work on", "Grateful for our resilience through obstacles", "Excited for the next phase of maturity"]
+          },
+          {
+            "prompt": "Relationship books, podcasts, or cards like this feel…",
+            "options": ["Super fun and valuable tools for us", "Cute occasionally for date night", "A bit corny, but I'll do them for you", "Essential for intentional love"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "themeSlug": "dates-and-playfulness",
+    "themeTitle": "Dates, Play & Leisure",
+    "quizzes": [
+      {
+        "slug": "dates-and-play",
+        "title": "Dates & Play",
+        "description": "Understanding energy, taste, and what having fun together really means.",
+        "questions": [
+          {
+            "prompt": "My idea of a great date is closest to…",
+            "options": ["A long meal and unhurried talk", "An adventure or something new", "Home, cozy, no performance", "Culture — film, music, a show, a museum"]
+          },
+          {
+            "prompt": "On vacation, I am usually…",
+            "options": ["The planner with a loose list", "Fully spontaneous", "Here for rest, not a schedule", "Here for food and wandering"]
+          },
+          {
+            "prompt": "If we had a free evening and unlimited energy, I would pick…",
+            "options": ["Dancing or a lively night out", "A long walk and somewhere quiet to sit", "A game, puzzle, or something competitive", "Staying in and going deep in conversation"]
+          },
+          {
+            "prompt": "The 'us' activity I want more of is…",
+            "options": ["Being silly / playing", "Trying new restaurants or recipes", "Time outside", "Creative projects together"]
+          },
+          {
+            "prompt": "When a plan falls through, I am more likely to feel…",
+            "options": ["Relieved — more rest", "Disappointed — I was looking forward to it", "Flexible — let's pivot", "Annoyed if it happens often"]
+          }
+        ]
+      },
+      {
+        "slug": "virtual-date-night",
+        "title": "Virtual Dates & Long-Distance Play",
+        "description": "Designing creative screen dates that don't feel like another work meeting.",
+        "questions": [
+          {
+            "prompt": "My dream virtual date night would be…",
+            "options": ["Ordering the same cuisine and watching a movie synchronously", "Playing online co-op games or trivia against each other", "Cooking the exact same recipe 'together' on video", "A deep, candlelit call with wine and conversation prompts"]
+          },
+          {
+            "prompt": "To make a screen date feel special rather than ordinary, we should…",
+            "options": ["Both dress up like we are going out", "Turn off phone notifications and focus 100%", "Set up ambient lighting or candles on camera", "Plan a specific activity/game in advance"]
+          },
+          {
+            "prompt": "When watching a show or movie together online, I am the one who…",
+            "options": ["Pauses constantly to talk or react", "Demands total silence until the end", "Gets distracted on my phone if it gets slow", "Predicts the plot out loud"]
+          },
+          {
+            "prompt": "If we are playing a game together, I am more likely to be…",
+            "options": ["Playfully competitive — I want to win!", "Cooperative — let's be on the same team", "Silly — I care about the chaotic moments, not scores", "Relaxed — I'll follow your lead"]
+          },
+          {
+            "prompt": "A virtual date feels unsuccessful if…",
+            "options": ["We spend 30 minutes struggling with bad Wi-Fi / technical issues", "We just talk about daily errands and work stress", "One of us seems tired or disengaged", "It feels rushed because of timezone differences"]
+          }
+        ]
+      },
+      {
+        "slug": "hypotheticals",
+        "title": "Soft Hypotheticals",
+        "description": "Playful what-ifs that reveal taste, values, and humor.",
+        "questions": [
+          {
+            "prompt": "If we won a free weekend anywhere, I would send us to…",
+            "options": ["A city we could eat and walk through", "Nature — cabin, coast, trail", "Somewhere neither of us has been", "A familiar favorite we already love"]
+          },
+          {
+            "prompt": "If we had to pick a couple 'uniform' for the next year, it would be…",
+            "options": ["Cozy homebodies with great lighting", "Always slightly overdressed for the errand", "Outdoor / slightly windswept", "Soft luxury — good food, slow mornings"]
+          },
+          {
+            "prompt": "The fictional life I would try on with you for a month is…",
+            "options": ["Tiny apartment in a huge city", "House with a garden and a dog", "Van or long train trip", "Art / night-owl studio season"]
+          },
+          {
+            "prompt": "If we hosted a dinner, the vibe I would aim for is…",
+            "options": ["Candlelit and a little fancy", "Big pot of something, extra chairs", "Board games and too much dessert", "Small, late, just two other people"]
+          },
+          {
+            "prompt": "The skill I secretly wish we would learn together is…",
+            "options": ["A language or instrument", "A sport or dance", "Something with our hands (build, pottery, garden)", "Cooking a cuisine properly"]
+          }
+        ]
+      },
+      {
+        "slug": "travel-and-adventure",
+        "title": "Travel Styles & Exploration",
+        "description": "How we discover new places and handle adventure on the road.",
+        "questions": [
+          {
+            "prompt": "When exploring a new city together, my pace is…",
+            "options": ["Walk 20,000 steps until my feet bleed", "A few main sights, but mostly sitting in cafes", "Strict itinerary with pre-booked museum slots", "Zero plan — wander around and get lost"]
+          },
+          {
+            "prompt": "Our ideal travel accommodation is…",
+            "options": ["A cozy Airbnb that feels like a home", "A boutique hotel with great amenities", "A remote cabin in the middle of nature", "Whatever is cheapest so we can spend on food/activities"]
+          },
+          {
+            "prompt": "When travel hiccups happen (missed train, rain storm), I…",
+            "options": ["Get stressed and need a moment to recalibrate", "Laugh it off and turn it into a side adventure", "Take charge and immediately solve the problem", "Look to you to figure out what we should do"]
+          },
+          {
+            "prompt": "The best part of traveling as a couple is…",
+            "options": ["Creating unforgettable inside jokes and stories", "Eating incredible food we can't get at home", "Escaping our daily responsibilities completely", "Seeing how well we operate as a team"]
+          },
+          {
+            "prompt": "My dream vacation length with you is…",
+            "options": ["A quick 3-day weekend getaway", "A solid 1 to 2-week trip", "A full month living in another country", "A long multi-month backpacking tour"]
+          }
+        ]
+      },
+      {
+        "slug": "food-and-culinary-adventures",
+        "title": "Food, Cooking & Taste",
+        "description": "Bonding over meals, flavors, and kitchen teamwork.",
+        "questions": [
+          {
+            "prompt": "When deciding what to eat, I am usually the one who…",
+            "options": ["Has specific cravings and makes the call", "Says 'I don't care, whatever you want'", "Suggests trying a brand new spot/cuisine", "Wants our reliable comfort food spot"]
+          },
+          {
+            "prompt": "Cooking a meal together in the kitchen feels…",
+            "options": ["Romantic and collaborative — one chops, one stirs", "Chaotic — too many cooks in the kitchen!", "Best if one person cooks and the other cleans", "Fun if music and wine are involved"]
+          },
+          {
+            "prompt": "My ultimate food comfort date is…",
+            "options": ["Late night fast food / street food in the car", "A cozy home-cooked pasta or soup", "A multi-course tasting menu at a nice spot", "Ordering a massive takeout spread for the couch"]
+          },
+          {
+            "prompt": "Trying strange or adventurous food is something I…",
+            "options": ["Live for — I'll eat anything once!", "Enjoy as long as it's not too extreme", "Prefer to avoid — stick to what I know", "Am open to if you encourage me"]
+          },
+          {
+            "prompt": "Splitting food on dates: my rule is…",
+            "options": ["'What's mine is yours' — sample everything!", "Order two different things and swap halfway", "Keep your hands off my plate!", "Ask before taking a bite of my food"]
+          }
+        ]
+      },
+      {
+        "slug": "pop-culture-entertainment",
+        "title": "Media, Movies & Entertainment",
+        "description": "Sharing stories, shows, movies, and entertainment tastes.",
+        "questions": [
+          {
+            "prompt": "Picking a show to watch together usually takes…",
+            "options": ["5 minutes — we have identical taste", "30 minutes of scrolling preview trailers", "A debate where one person gives in", "We rotate who picks the show each time"]
+          },
+          {
+            "prompt": "My favorite movie genre to watch with you is…",
+            "options": ["Gripping thrillers or mind-bending mysteries", "Laugh-out-loud comedies or light sitcoms", "Deep, slow-burn dramas or indie films", "Action, sci-fi, or fantasy epics"]
+          },
+          {
+            "prompt": "If you watch an episode of 'our show' without me, I feel…",
+            "options": ["Betrayed! That is relationship treason!", "Fine — just don't spoil what happened", "Proud of your self-control for stopping at one", "Motivated to catch up on my own"]
+          },
+          {
+            "prompt": "During a movie, my behavior is…",
+            "options": ["Total silence — absolute focus", "Constant commentary, predictions, and jokes", "Munching snacks noisily and asking 'Who's that?'", "Falling asleep 20 minutes in"]
+          },
+          {
+            "prompt": "Sharing music and playlists with each other is…",
+            "options": ["A core love language of mine", "Nice, though our music tastes are pretty different", "Something I do whenever I find a great track", "A fun way to stay connected across distance"]
+          }
+        ]
+      },
+      {
+        "slug": "humor-and-inside-jokes",
+        "title": "Silliness, Memes & Inside Jokes",
+        "description": "The private comedy world only the two of you inhabit.",
+        "questions": [
+          {
+            "prompt": "Our shared humor is best described as…",
+            "options": ["Dry, sarcastic, and witty", "Silly, unhinged, and absurd", "Wholesome, cute, and gentle", "Dark, edgy, and inappropriate"]
+          },
+          {
+            "prompt": "When you send me a meme or TikTok, I expect…",
+            "options": ["An immediate reaction text or laugh", "You to laugh even if I watch it hours later", "It to be specifically relevant to an inside joke", "A flood of memes back in return"]
+          },
+          {
+            "prompt": "Doing goofy voices or silly impressions around each other is…",
+            "options": ["A daily occurrence in our relationship", "Reserved for when we are in private", "Not really our thing — we banter normally", "Something that makes me love you more"]
+          },
+          {
+            "prompt": "When one of us trips, mispronounces a word, or makes a silly mistake…",
+            "options": ["We roast each other relentlessly for weeks", "We laugh together in the moment and move on", "We check if the other person is okay first", "It instantly becomes a permanent inside joke"]
+          },
+          {
+            "prompt": "Laughter in our relationship serves as…",
+            "options": ["The glue that gets us through hard times", "Our primary mode of daily affection", "A way to diffuse tension during stress", "Proof that we are best friends first"]
+          }
+        ]
+      },
+      {
+        "slug": "hobbies-and-creativity",
+        "title": "Creative Projects & Shared Hobbies",
+        "description": "Building, making, and exploring hobbies side by side.",
+        "questions": [
+          {
+            "prompt": "A creative project I'd love to attempt together is…",
+            "options": ["Painting/pottery or crafting something for our space", "Building furniture or renovating/decorating", "Making a photo album or scrapbook of our visits", "Writing a story, song, or creating video content"]
+          },
+          {
+            "prompt": "When working on a project together, my dynamic is…",
+            "options": ["The director — guiding the vision and steps", "The hands-on builder — executing the work", "The morale booster — keeping it fun and easy", "The perfectionist — making sure details are right"]
+          },
+          {
+            "prompt": "Learning a completely new skill together (e.g., dance, language) feels…",
+            "options": ["Exciting and a great way to bond", "A little humbling or embarrassing", "Fun as long as there's no pressure to be good", "Better done separately, then brought together"]
+          },
+          {
+            "prompt": "Playing board games or video games as a couple is best when…",
+            "options": ["We play cooperatively against the game engine", "We play competitive games and talk friendly trash", "It's a chill, turn-based game over coffee", "We invite other couple friends to join us"]
+          },
+          {
+            "prompt": "If one of us is much better at a hobby than the other, they should…",
+            "options": ["Be a patient teacher and encourage the beginner", "Tone down their skill so it stays competitive", "Enjoy showing off while helping the other", "Keep that hobby separate"]
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-and-nature",
+        "title": "Outdoors, Nature & Unplugging",
+        "description": "Escaping screens and reconnecting under the open sky.",
+        "questions": [
+          {
+            "prompt": "My dream outdoor experience with you is…",
+            "options": ["A peaceful hike to a panoramic mountain view", "Camping under the stars with a bonfire", "A lazy beach day swimming and sunbathing", "A stroll through a botanical garden or city park"]
+          },
+          {
+            "prompt": "When in nature, my relationship with tech is…",
+            "options": ["Total blackout — phone stays in airplane mode", "A few scenic photos, then put it away", "Documenting the beauty to share with others", "Using GPS/maps, but otherwise unplugged"]
+          },
+          {
+            "prompt": "Weather tolerance: if our outdoor date gets rainy/cold, I…",
+            "options": ["Embrace it — splash in puddles or dress warm!", "Want to retreat inside to somewhere warm immediately", "Pout a little, but adapt if you keep spirits up", "Planned ahead for bad weather anyway"]
+          },
+          {
+            "prompt": "Wildlife and animals: seeing animals together makes me feel…",
+            "options": ["Like a little kid — absolute joy!", "Happy to watch from a safe distance", "Focused on taking photos", "Indifferent unless it's dogs or pets"]
+          },
+          {
+            "prompt": "Being outdoors together helps us connect by…",
+            "options": ["Forcing us away from screens and work", "Creating a quiet space for long conversations", "Giving us a physical shared challenge", "Grounding us in something bigger than ourselves"]
+          }
+        ]
+      },
+      {
+        "slug": "nightlife-and-socializing",
+        "title": "Nightlife, Energy & Social Outings",
+        "description": "Going out on the town, parties, and evening outings.",
+        "questions": [
+          {
+            "prompt": "My ideal night out on the town includes…",
+            "options": ["A speakeasy cocktail bar with dim lighting and jazz", "A loud concert, festival, or dancing event", "A cozy pub with friends and draft drinks", "Late-night arcade, bowling, or activity venue"]
+          },
+          {
+            "prompt": "At a crowded party or social event, our dynamic is…",
+            "options": ["Glued to each other's side the whole night", "Splitting up to socialize, then checking in with eyes/touches", "One hosting/animating while the other rests nearby", "Ready to leave after 1 hour together"]
+          },
+          {
+            "prompt": "Dressing up for a night out together feels…",
+            "options": ["Super exciting — I love seeing you look hot!", "Fun, but I prefer cozy lounge clothes", "Nice for special occasions, but exhausting weekly", "A great excuse for taking cute couple photos"]
+          },
+          {
+            "prompt": "The ideal time to leave a party and go home is…",
+            "options": ["Early — before 11 PM so we can snuggle at home", "When the crowd starts thinning out", "Last ones on the dance floor!", "Whenever one of us gives 'the look'"]
+          },
+          {
+            "prompt": "Late night food after going out is…",
+            "options": ["Non-negotiable — greasy pizza or tacos in bed!", "Nice if something is open, otherwise straight to bed", "Water and aspirin only", "The best part of the whole night out"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "themeSlug": "future-and-milestones",
+    "themeTitle": "Future, Values & Milestones",
+    "quizzes": [
+      {
+        "slug": "values-and-future",
+        "title": "Values & Future",
+        "description": "What you are building toward, lifestyle vision, and non-negotiables.",
+        "questions": [
+          {
+            "prompt": "In five years, the life that would make me proudest includes…",
+            "options": ["A home that feels like a sanctuary", "Work that feels meaningful (even if demanding)", "More adventure and movement", "Deeper roots: community, family, rituals"]
+          },
+          {
+            "prompt": "About money, I am more…",
+            "options": ["Security-first: save, then enjoy", "Experience-first: spend on memories", "Balanced, but I get anxious if we do not talk", "Happy if we have a simple shared system"]
+          },
+          {
+            "prompt": "The family / community piece I want us to be intentional about is…",
+            "options": ["How often we see people we love", "Boundaries with family", "Whether / how we build a family of our own", "Friendship as a couple, not only as individuals"]
+          },
+          {
+            "prompt": "The growth I most want from us this year is…",
+            "options": ["Kinder conflict", "More play and desire", "Better teamwork on logistics", "Feeling more emotionally safe"]
+          },
+          {
+            "prompt": "If we had to choose a 'north star' for the relationship, mine would be…",
+            "options": ["We tell each other the truth kindly", "We keep choosing each other on ordinary days", "We stay curious instead of assuming", "We protect joy, not only duty"]
+          }
+        ]
+      },
+      {
+        "slug": "closing-the-gap",
+        "title": "Reunions & Closing the Distance Gap",
+        "description": "Planning visits, travel logistics, and the ultimate roadmap to living together.",
+        "questions": [
+          {
+            "prompt": "When planning our next visit, my biggest priority is…",
+            "options": ["Booking tickets as far in advance as possible for certainty", "Keeping plans flexible in case work or life changes", "Ensuring equal financial investment in the travel cost", "Making sure we have long, uninterrupted stretches of time"]
+          },
+          {
+            "prompt": "On the first day of a reunion visit, I usually need…",
+            "options": ["Immediate energy — hit the town and celebrate!", "Quiet decompression time together to adjust to physical presence", "A cozy night in with good food and no external plans", "Physical touch and closeness above all else"]
+          },
+          {
+            "prompt": "During a trip together, the hardest part of logistics for me is…",
+            "options": ["Balancing seeing family/friends vs. 1-on-1 couple time", "Managing travel fatigue or jetlag without getting cranky", "Budgeting and managing shared expenses smoothly", "Knowing that the goodbye day is approaching"]
+          },
+          {
+            "prompt": "When thinking about 'closing the gap' permanently, my main focus is…",
+            "options": ["Career/job security in the new location", "Visas, paperwork, and legal logistics", "Building a social circle and feeling at home in the new city", "Making sure neither of us feels like they sacrificed too much"]
+          },
+          {
+            "prompt": "The day after saying goodbye at the airport, I need you to…",
+            "options": ["Text/call frequently so the sudden silence isn't overwhelming", "Give me a little time to cry or process the sadness quietly", "Focus on planning the next visit immediately", "Remind me why all this effort is worth it"]
+          }
+        ]
+      },
+      {
+        "slug": "memories-of-us",
+        "title": "Memories of Us",
+        "description": "Reflecting on shared milestones, history, and defining moments.",
+        "questions": [
+          {
+            "prompt": "The early memory of us I replay most is…",
+            "options": ["The first time it felt easy to be ourselves", "A laugh we could not stop", "A moment of unexpected kindness", "When I realized I wanted more"]
+          },
+          {
+            "prompt": "The trip, day, or night I would clone if I could is closest to…",
+            "options": ["A getaway just the two of us", "An ordinary perfect day at home", "A celebration with other people", "An adventure that went a bit wrong and became a story"]
+          },
+          {
+            "prompt": "When I think 'that is so us,' I picture…",
+            "options": ["Inside jokes and timing", "How we take care of each other when it is hard", "Our taste — food, music, places", "The way we can be quiet together"]
+          },
+          {
+            "prompt": "The hard season I am proud we got through is the kind that involved…",
+            "options": ["Distance or schedules", "Money or work stress", "Family or health", "A misunderstanding we had to repair"]
+          },
+          {
+            "prompt": "The tradition I most want us to keep forever is like…",
+            "options": ["A holiday or anniversary ritual", "A weekly date or check-in", "A silly private habit", "How we say goodbye / goodnight"]
+          }
+        ]
+      },
+      {
+        "slug": "financial-harmony-goals",
+        "title": "Money Mindset & Financial Goals",
+        "description": "Aligning on spending, saving, and financial philosophy.",
+        "questions": [
+          {
+            "prompt": "My overall relationship with money is best described as…",
+            "options": ["Saver — money means safety and peace of mind", "Spender — money is a tool for enjoyment right now", "Planner — budget strictly so I can splurge stress-free", "Anxious — talking about money stresses me out"]
+          },
+          {
+            "prompt": "When we spend money on visits or travel, I feel best if…",
+            "options": ["We split everything 50/50 down to the cent", "We split proportionally based on our incomes", "One person buys flights, the other gets food/stays", "We keep a joint running tally on an app like Splitwise"]
+          },
+          {
+            "prompt": "A major financial goal I want us to achieve in the next 3 years is…",
+            "options": ["Building a solid shared emergency/relocation fund", "Saving for a major trip or luxury experience", "Investing in property or a permanent home setup", "Paying off personal debts completely"]
+          },
+          {
+            "prompt": "If one of us gets a significant raise or windfall, we should…",
+            "options": ["Put most of it straight into long-term savings", "Celebrate with a special luxury gift or vacation", "Use it to accelerate our 'closing the gap' timeline", "Upgrade our daily living quality"]
+          },
+          {
+            "prompt": "Talking about personal finances together should feel…",
+            "options": ["Transparent and completely open — zero secrets", "Private regarding personal fun money, open on shared goals", "Structured — a quarterly check-in on budgets", "Gentle — avoiding judgment or guilt"]
+          }
+        ]
+      },
+      {
+        "slug": "career-relocation-tradeoffs",
+        "title": "Career Choices & Relocation",
+        "description": "Navigating geographic choices, job sacrifices, and moving.",
+        "questions": [
+          {
+            "prompt": "When deciding who moves to whom, the biggest deciding factor should be…",
+            "options": ["Which city offers better career/job opportunities for both", "Visa/legal ease and citizenship pathways", "Cost of living and overall quality of life", "Proximity to family and existing support networks"]
+          },
+          {
+            "prompt": "If one person has to take a temporary career hit to move, we should…",
+            "options": ["Support them financially while they transition", "Ensure the move is temporary or rotated later", "Focus on building their social network in the new place", "Celebrate their sacrifice as a massive contribution to 'us'"]
+          },
+          {
+            "prompt": "Living in a foreign country or new city together sounds…",
+            "options": ["Like an incredible adventure that will bond us forever", "A bit scary, but worth it to be together", "Fine as long as we have a clear exit plan if it fails", "Challenging — I am very rooted in my home city"]
+          },
+          {
+            "prompt": "My dream setting for our permanent home base is…",
+            "options": ["A vibrant, walkable metropolitan city", "A quiet suburb with good space and community", "A rural/coastal town close to nature", "Dividing time between two places throughout the year"]
+          },
+          {
+            "prompt": "If a dream job offer requires one of us to move unexpectedly, we…",
+            "options": ["Discuss it as a team before giving any answer", "Take it if it benefits our long-term future", "Decline it if it delays closing our distance gap", "Pivoting our entire timeline to make it work"]
+          }
+        ]
+      },
+      {
+        "slug": "family-dynamics-inlaws",
+        "title": "Family Integration & In-Laws",
+        "description": "How extended family fits into our relationship future.",
+        "questions": [
+          {
+            "prompt": "How close I want us to be with extended family…",
+            "options": ["Very close — family dinners and frequent visits", "Friendly and warm, but with healthy space/boundaries", "Polite and distant — our couple unit comes first", "Selective — close with certain members only"]
+          },
+          {
+            "prompt": "During holiday seasons, navigating family vs. couple time should be…",
+            "options": ["Alternate years between our respective families", "Host holidays at our home so everyone comes to us", "Spend holidays just the two of us whenever possible", "Split holidays if distance allows"]
+          },
+          {
+            "prompt": "If my family or parents express an opinion on our relationship choices, I…",
+            "options": ["Listen respectfully, but make my own choice with you", "Defend our decisions immediately and firmly", "Get influenced easily — their blessing matters a lot", "Keep our decisions private so they can't opinionate"]
+          },
+          {
+            "prompt": "Building a good relationship with your partner's parents feels…",
+            "options": ["Top priority — I want them to love me!", "Nice, but my primary focus is on my partner", "Natural over time — no need to force it", "Challenging due to cultural or language gaps"]
+          },
+          {
+            "prompt": "In-law boundaries: if an in-law oversteps a boundary, who speaks up?",
+            "options": ["The person whose parent/family member it is", "We stand together and address it as a couple", "We let it slide unless it becomes a recurring problem", "We handle it privately between us without confronting them"]
+          }
+        ]
+      },
+      {
+        "slug": "parenting-and-family-building",
+        "title": "Kids, Pets & Building a Home",
+        "description": "Perspectives on children, pets, and expanding your family.",
+        "questions": [
+          {
+            "prompt": "My stance on having children in the future is…",
+            "options": ["Definitely yes — raising kids is a dream of mine", "Leaning yes, but under the right financial/life conditions", "Leaning no — I prefer a child-free lifestyle", "Definitely no — non-negotiable for me"]
+          },
+          {
+            "prompt": "Pets in our future home should be…",
+            "options": ["Multiple pets! Dogs/cats are essential family members", "One well-trained pet is perfect", "No pets — I prefer freedom to travel easily", "Open to it later down the road"]
+          },
+          {
+            "prompt": "When it comes to parenting styles (if applicable), I lean toward…",
+            "options": ["Gentle, empathetic, and communicative", "Structured, routine-oriented, and disciplined", "Playful, adventurous, and free-spirited", "Focusing heavily on education and values"]
+          },
+          {
+            "prompt": "Before adding kids or pets to our lives, we must first…",
+            "options": ["Live together in person for at least 2 years", "Reach specific financial and housing stability benchmarks", "Travel the world and enjoy solo couple freedom", "Feel completely solid in our conflict resolution"]
+          },
+          {
+            "prompt": "The environment I want to raise a family in is…",
+            "options": ["Close to extended family and grandparents", "In a diverse, culturally rich city", "In a safe, quiet town with nature access", "Location doesn't matter as long as our home is loving"]
+          }
+        ]
+      },
+      {
+        "slug": "aging-growing-old",
+        "title": "Growing Old & Long-Term Loyalty",
+        "description": "Reflecting on lifelong commitment and changing over decades.",
+        "questions": [
+          {
+            "prompt": "When I picture us in 30 years, I see…",
+            "options": ["Holding hands on a porch talking about our wild youth", "Traveling the world as empty nesters / retired explorers", "Hosting big family gatherings and dinners", "Working on creative passions side by side"]
+          },
+          {
+            "prompt": "As our physical looks change with age, I want us to…",
+            "options": ["Focus on health, but embrace aging naturally together", "Keep flirting and complimenting each other's evolving beauty", "Maintain active habits so we feel energetic", "Remember that our soul connection is what matters"]
+          },
+          {
+            "prompt": "Long-term loyalty to me means…",
+            "options": ["Choosing each other even when feelings wax and wane", "Standing by each other through health or financial hardships", "Never giving up on working through hard seasons", "Protecting our bond above all outer temptations"]
+          },
+          {
+            "prompt": "The legacy I want our relationship to leave behind is…",
+            "options": ["Proof that true, enduring love exists", "A warm, welcoming home for friends and family", "A life full of courage, adventure, and stories", "Generational stability and kindness"]
+          },
+          {
+            "prompt": "To keep our connection fresh over decades, we must…",
+            "options": ["Never stop trying new things together", "Keep learning about each other as we evolve", "Maintain our sense of humor and silliness", "Prioritize our romantic intimacy above daily duties"]
+          }
+        ]
+      },
+      {
+        "slug": "traditions-and-rituals",
+        "title": "Shared Traditions & Annual Rituals",
+        "description": "Crafting rituals, holidays, and unique couple traditions.",
+        "questions": [
+          {
+            "prompt": "An annual tradition I want us to establish is…",
+            "options": ["An anniversary trip to a brand new location every year", "A cozy home tradition for major winter holidays", "A yearly relationship review and goal-setting date", "An annual camping or nature retreat"]
+          },
+          {
+            "prompt": "Anniversaries should be celebrated with…",
+            "options": ["A major romantic gesture or surprise trip", "A special meal at a favorite restaurant and heartfelt letters", "A low-key cozy day completely offline", "Recreating elements of our early dates"]
+          },
+          {
+            "prompt": "Creating our own unique cultural or holiday traditions feels…",
+            "options": ["Essential — we are crafting our own family culture", "Fun, but combining our existing family traditions matters more", "Nice to let happen organically over time", "A sweet way to bridge our different backgrounds"]
+          },
+          {
+            "prompt": "Small weekly rituals (e.g., Friday night pizza, Sunday walks) are…",
+            "options": ["The secret sauce of relationship happiness", "Cute, but I prefer variety over repetitive routines", "Important for keeping us anchored during crazy weeks", "Harder during distance, but vital when reunited"]
+          },
+          {
+            "prompt": "When celebrating personal milestones (birthdays, promotions), I want…",
+            "options": ["To be completely spoiled by you for a full day", "A big gathering with all our friends", "A quiet, meaningful date just for the two of us", "To pick my own activity without any fuss"]
+          }
+        ]
+      },
+      {
+        "slug": "spirituality-and-mindset",
+        "title": "Philosophy, Mindset & Life Purpose",
+        "description": "Deep worldviews, spiritual beliefs, and personal philosophies.",
+        "questions": [
+          {
+            "prompt": "My stance on spirituality, faith, or personal philosophy is…",
+            "options": ["Central to my daily life and moral compass", "Personal and quiet — I explore it internally", "Agnostic/Secular — grounded in humanism and science", "Open-minded and curious about spiritual growth"]
+          },
+          {
+            "prompt": "When facing life's existential questions or tragedies, I seek comfort in…",
+            "options": ["Deep conversations and philosophical exploration", "Action, resilience, and focusing on what I can control", "Faith, prayer, or spiritual practices", "Nature, art, and human connection"]
+          },
+          {
+            "prompt": "Sharing similar core philosophical values with my partner is…",
+            "options": ["A non-negotiable foundation for long-term unity", "Important, but respecting differences is what matters", "Nice to have, but daily lifestyle compatibility matters more", "Secondary to emotional safety and love"]
+          },
+          {
+            "prompt": "How we contribute to the world around us should include…",
+            "options": ["Volunteering or supporting causes we care about", "Being a safe, generous haven for our friends and community", "Focusing on creating a happy, stable immediate family", "Excellence in our work and creative endeavors"]
+          },
+          {
+            "prompt": "My view on fate vs. choice in our relationship…",
+            "options": ["We were meant to find each other (destiny)", "We chose each other and work every day to stay together", "A mix of lucky timing and deliberate choice", "It doesn't matter how we met, only where we go"]
+          }
+        ]
+      }
+    ]
+  }
+]
